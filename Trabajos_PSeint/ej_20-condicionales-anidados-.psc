@@ -7,13 +7,13 @@ Algoritmo ej_20
 	Si a<0 Entonces
 		Escribir a " es negativo"
 	SiNo 
-	FinSi
-	Si a>0 Entonces
-		Escribir a " es positivo"
-	SiNo
-	FinSi
-	Si a=0 Entonces
-		Escribir a "=0"
+		Si a>0 Entonces
+			Escribir a " es positivo"
+		SiNo
+			Si a=0 Entonces
+				Escribir a "=0"
+			FinSi
+		FinSi
 	Fin Si
 	
 FinAlgoritmo
