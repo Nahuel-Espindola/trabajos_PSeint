@@ -31,10 +31,12 @@ Funcion devuelta <- indice ( peso, altura )
 			Fin Si//°°°°°
 		Fin Si//°°°°°
 	Fin Si//°°°°°
+	
 Fin Funcion
 
-Algoritmo "Funcion-con-Si-SiNo"
-	
+
+Algoritmo qwertyuiopñlkjhgfdsdfghjkl
+
 	Escribir Sin Saltar "ingrese su peso y seguidamente su altura en metros"
 	//El Algoritmo te pide la informacion.
 	Leer peso

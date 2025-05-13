@@ -29,7 +29,7 @@ Fin Si//<-----
 
 Fin Funcion
 
-Algoritmo "Funcion-con-Si-SiNo"
+Algoritmo asdfghjklkjhgfdsasdfghjklñlkjhgfds
 	
 	Escribir Sin Saltar "ingrese su peso y seguidamente su altura en metros"
 	//El Algoritmo te pide la informacion.
